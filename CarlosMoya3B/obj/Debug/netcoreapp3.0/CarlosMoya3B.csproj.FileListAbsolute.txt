@@ -1,0 +1,11 @@
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/obj/Debug/netcoreapp3.0/CarlosMoya3B.csprojAssemblyReference.cache
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/obj/Debug/netcoreapp3.0/CarlosMoya3B.AssemblyInfoInputs.cache
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/obj/Debug/netcoreapp3.0/CarlosMoya3B.AssemblyInfo.cs
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/bin/Debug/netcoreapp3.0/CarlosMoya3B
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/bin/Debug/netcoreapp3.0/CarlosMoya3B.deps.json
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/bin/Debug/netcoreapp3.0/CarlosMoya3B.runtimeconfig.json
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/bin/Debug/netcoreapp3.0/CarlosMoya3B.runtimeconfig.dev.json
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/bin/Debug/netcoreapp3.0/CarlosMoya3B.dll
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/bin/Debug/netcoreapp3.0/CarlosMoya3B.pdb
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/obj/Debug/netcoreapp3.0/CarlosMoya3B.dll
+/Users/carlosmoya/Desktop/CarlosMoya3B/CarlosMoya3B/obj/Debug/netcoreapp3.0/CarlosMoya3B.pdb
